@@ -1,3 +1,7 @@
+//functions
+// Video Length: 9:45
+// Video 9/35
+
 function sayHello(name)
 {
     console.log("Hello Brotha " + name);
