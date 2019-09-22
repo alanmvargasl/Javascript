@@ -1,3 +1,7 @@
+//JavaScript Function Expressions 
+//Video Length : 12:06 10/35 
+//Really Good Video!
+
 setTimeout(function () 
 {console.log("i waited 2 seconds to run"); }, 2000 );
 
