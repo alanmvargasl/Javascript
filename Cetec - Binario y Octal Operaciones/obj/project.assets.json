@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\Program2\\Program2.csproj",
-      "projectName": "Program2",
-      "projectPath": "C:\\Users\\Windows 10\\Desktop\\Program2\\Program2.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\Desktop\\Program\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "C:\\Users\\Windows 10\\Desktop\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\Desktop\\Program2\\obj\\",
+      "outputPath": "C:\\Users\\Windows 10\\Desktop\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
